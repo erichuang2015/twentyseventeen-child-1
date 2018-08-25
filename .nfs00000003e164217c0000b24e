@@ -13,5 +13,5 @@
 */
 
 .site-description {
-
+	text-transform: uppercase;
 }
